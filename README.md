@@ -29,7 +29,7 @@ repositories {
 }
 
 dependencies {
-	compile group: 'com.liferay.mobile', name: 'liferay-mobile-sdk', version: '{look.at.gitHub's.releases.section.for.latest.version.number}'
+	compile group: 'com.liferay.mobile', name: 'liferay-mobile-sdk', version: "{look.at.github's.releases.section.for.latest.version.number}"
 }
 ```
 
